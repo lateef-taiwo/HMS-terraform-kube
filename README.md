@@ -71,4 +71,4 @@ This Project was accomplished using these three GitHub repositories.
 
 ➡️ [Terraform code] (https://github.com/lateef-taiwo/HMS-terraform-kube)
 
-➡️ [Manifest Repo] (https://github.com/lateef-taiwo/HMS_kube_manifest)
+➡️ [Kubernetes Manifest Repo] (https://github.com/lateef-taiwo/HMS_kube_manifest)
