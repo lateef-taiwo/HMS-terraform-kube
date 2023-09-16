@@ -18,13 +18,13 @@ Follow the blog to Install the Terraform and another dependency.
 2️⃣ Let's install dependency to deploy the application
 
 ``` 
-cd kube_terraform/HMS-App/
+cd HMS-terraform-kube/HMS-App/
 terraform init
 ```
 
 3️⃣ Edit the below file according to your configuration
 
-`vim kube_terraform/ToDo-App/backend.tf`
+`vim HMS-terraform-kube/HMS-App/backend.tf`
 
 add below code
 
