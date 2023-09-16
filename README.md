@@ -59,7 +59,7 @@ The below command will tell you what terraform is going to create.
 
 `terraform plan`
 
-Finally, HIT the below command to create the infrastructure...
+Finally, run the command below to create the infrastructure...
 
 `terraform apply`
 
